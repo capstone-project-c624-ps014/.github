@@ -5,6 +5,8 @@ Event Aja is a platform for connecting event owners, EOs and sponsors through th
 ## Project Details
 
 - Team ID: C624-PS014
+- Advisors:
+  - DCD24-AD04 - Dwarastra Tegar Citta - Project Management (mentoring done on 31th May 2024)
     
 ## Team Members
 
