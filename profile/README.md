@@ -1,6 +1,6 @@
 <H1 align ="center" >Event Aja</h1>
 <h5  align ="center"> 
-Event Aja is a platform for connecting event owners, EOs and sponsors through the Event Aja platform, enabling them to collaborate effectively and achieve common goals.</h5>
+Increasing Quality Human Resources</h5>
 
 ![01](https://github.com/capstone-project-c624-ps014/.github/assets/111676859/38f18b46-e498-443d-8fb0-fde29d4694bd)
 
