@@ -27,6 +27,10 @@ Maintained by:
   - [R2116YB445 - Dimas Maulana Ishaq](https://github.com/dimas-ishaq)
   - [R5756YB489 - Muchamad Aqmal Hidayat](https://github.com/aqmalProjek)
 
+## Meet Our Team
+
+![02](https://github.com/capstone-project-c624-ps014/.github/assets/111676859/fb669229-b5ae-459c-b161-3623d7f94144)
+
 ## License
 
 MIT License
