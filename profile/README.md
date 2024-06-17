@@ -23,9 +23,9 @@ Event Aja is a platform that provides integrated solutions to facilitate collabo
 ## Repositories
 #### Main Repository : [eventaja](https://github.com/capstone-project-c624-ps014/next-event-aja)
 Maintained by:
-  - R6596YB426 - Gilbert Hutapea
-  - R2116YB445 - Dimas Maulana Ishaq
-  - R5756YB489 - Muchamad Aqmal Hidayat
+  - [R6596YB426 - Gilbert Hutapea](https://github.com/berthutapea)
+  - [R2116YB445 - Dimas Maulana Ishaq](https://github.com/dimas-ishaq)
+  - [R5756YB489 - Muchamad Aqmal Hidayat](https://github.com/aqmalProjek)
 
 ## License
 
