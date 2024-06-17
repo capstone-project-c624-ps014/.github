@@ -20,9 +20,8 @@ Event Aja is a platform for connecting event owners, EOs and sponsors through th
 
 Event Aja is a platform that provides integrated solutions to facilitate collaboration between event owners, Event Organizers (EO), and sponsors in order to make various types of events a success. This platform helps event owners to find EOs and sponsors that suit their needs, while EOs and sponsors get the opportunity to gain income, branding and exposure through the selected event.
 
-## Repository
-
-[eventaja](https://github.com/capstone-project-c624-ps014/next-event-aja)
+## Repositories
+#### Main Repository : [eventaja](https://github.com/capstone-project-c624-ps014/next-event-aja)
 Maintained by:
   - R6596YB426 - Gilbert Hutapea
   - R2116YB445 - Dimas Maulana Ishaq
